@@ -43,5 +43,8 @@ https://github.com/dhrim/2024_slipp_ai_study
 - 어느 회사 직원이 추천한 가볍게 보기 좋은, 조코딩 youtube : https://www.youtube.com/@jocoding
 - 소프트웨어정책연구소 AI 브리프 : https://spri.kr/posts?code=AI-Brief
 - AI Archives : https://www.unite.ai/category/artificial-intelligence/
+- 무인 자동화 매장 : https://enterprise-resources.awscloud.com/execleaders-korea-library/the-hyundai-seoul-uncommon-store-6
+- Ultralytics : https://github.com/ultralytics/ultralytics
+- 영상 요약 : https://lilys.ai/
 
 
