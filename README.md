@@ -10,7 +10,7 @@ https://github.com/dhrim/2024_slipp_ai_study
 
 # Link
 - SLiPP 홈 : https://www.notion.so/SLiPP-a3f1f266270d4964bb3d91b519a725aa
-- SLiPP 17차 스터디 홈 : https://www.notion.so/27-0d0e4269814b4617a65510d6bb06f795
+- SLiPP 27차 스터디 홈 : https://www.notion.so/27-0d0e4269814b4617a65510d6bb06f795
 - SLiPP AI 트렌드 스터디 홈 : https://www.notion.so/AI-2024-be34e40a7e2944d9a621bb71427bac26
 
 <br>
