@@ -24,7 +24,7 @@ https://github.com/dhrim/2024_slipp_ai_study
 2 | 09/11(수) | 김학건 | [Vision AI](vision_ai.md)
 2 | 09/11(수) | X | 
 3 | 09/25(수) | 임도형 | [회사에서 진행하는 AI 업무 소개](rowan)
-3 | 09/25(수) | ? | 
+3 | 09/25(수) | 김아름 | SPRi 동향 소개(https://www.notion.so/SPRi-AI-Brief-8-9-6dc461e43c244b0c99e0af0b8a15a4d3?pvs=4)
 4 | 10/09(수) | ? | 
 4 | 10/09(수) | ? | 
 5 | 10/23(수) | ? | 
