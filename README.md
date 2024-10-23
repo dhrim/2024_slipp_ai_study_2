@@ -27,7 +27,7 @@ https://github.com/dhrim/2024_slipp_ai_study
 3 | 09/25(수) | 김아름 | [SPRi 동향 소개](https://blossom-sail-354.notion.site/SPRi-AI-Brief-8-9-6dc461e43c244b0c99e0af0b8a15a4d3?pvs=4)
 4 | 10/08(수) | 김미림 | [트랜스포머(Transformer) 모델](https://brick-bergamot-47c.notion.site/4-10e8ea742b9280efb435d8fb58dfdf15?pvs=4)
 4 | 10/08(수) | 강대권 | [SLiPP AI 트렌드](https://docs.google.com/presentation/d/1u9wWM6yKcqTZiO_r7sCBavMLfzGu6RGfq0MnMvSxVK4/edit?usp=sharing)
-5 | 10/23(수) | ? | 
+5 | 10/23(수) | 이은경 | [AI AGENT](AI_AGENT.md)
 5 | 10/23(수) | ? | 
 6 | 11/06(수) | ? | 
 6 | 11/06(수) | ? | 
