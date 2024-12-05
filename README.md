@@ -32,9 +32,9 @@ https://github.com/dhrim/2024_slipp_ai_study
 6 | 11/06(수) | 천정대 | 
 6 | 11/06(수) | 이은경 | [AI 에이전트](ai_agent.md)
 7 | 11/20(수) | 임도형 | [인공지능을 활용한 슬기로운 연구생활](241118_이제현_인공지능을활용한슬기로운연구생활.pdf) ([출처](https://jehyunlee.github.io/2024/11/18/General-69_SNU/))
-7 | 11/20(수) | 강대권 | 
-8 | 12/04(수) | ? | 
-8 | 12/04(수) | ? | 
+7 | 11/20(수) | - | 
+8 | 12/04(수) |강대권 | [SLiPP AI 트랜드 #2](https://docs.google.com/presentation/d/1s_ka7PE5vsoVHz0atEhmzoZ99eiTXqiFIHsO89NA6xA/edit?usp=sharing)
+8 | 12/04(수) | - | 
 
 <br>
                                     
